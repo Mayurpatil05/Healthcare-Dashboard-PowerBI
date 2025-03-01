@@ -40,7 +40,7 @@ The dashboard includes the following key features:
 
 ## Screenshots
 Here are some screenshots of the dashboard:
-![Image](https://github.com/user-attachments/assets/f704756e-a644-4312-a0c9-d11e74bc077d)
+
 ### Patient Demographics
 ![Patient Demographics](Images/patient_demographics.png)
 
