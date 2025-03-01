@@ -18,6 +18,7 @@ This Power BI dashboard provides insights into healthcare data, including patien
 3. Explore the dashboard and interact with the visualizations.
 
 ## Screenshots
-![Patient Demographics](Images/patient_demographics.png)
+[image](https://github.com/user-attachments/assets/c6acd42b-57ab-4f4d-8db0-b7f513edbf9e)
+
 ![Hospital Insights](Images/hospital_insights.png)
 ![Financial Overview](Images/financial_overview.png)
