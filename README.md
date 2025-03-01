@@ -42,13 +42,13 @@ The dashboard includes the following key features:
 Here are some screenshots of the dashboard:
 
 ### Patient Demographics
-![Image](https://github.com/user-attachments/assets/f7342b87-2223-4496-a71f-defdee823294)
+<img src="https://github.com/user-attachments/assets/f7342b87-2223-4496-a71f-defdee823294" alt="Patient Demographics" width="600">
 
 ### Hospital Insights
-![Image](https://github.com/user-attachments/assets/670b00c5-f2e7-42b6-9dbc-55fdeb0362e9)
+<img src="https://github.com/user-attachments/assets/670b00c5-f2e7-42b6-9dbc-55fdeb0362e9" alt="Hospital Insights" width="600">
 
 ### Financial Overview
-![Image](https://github.com/user-attachments/assets/99cf6a61-af1f-4322-82be-3a08b4fe8efc)
+<img src="https://github.com/user-attachments/assets/99cf6a61-af1f-4322-82be-3a08b4fe8efc" alt="Financial Overview" width="600">
 
 ---
 
