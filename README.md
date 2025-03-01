@@ -79,7 +79,3 @@ Here are some screenshots of the dashboard:
    - Negotiate better reimbursement rates with insurance providers.
    - Implement cost-control measures for high-billing conditions.
 
----
-
-## Folder Structure
-The repository is organized as follows:
